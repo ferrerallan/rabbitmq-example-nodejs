@@ -1,4 +1,4 @@
-# rabbitmq-example-python
+# rabbitmq-example-nodejs
 This project uses rabbitmq as a messenger service, creating a producer and a consumer in nodejs, and running rabbitmq with docker
 
 ### Requirements
