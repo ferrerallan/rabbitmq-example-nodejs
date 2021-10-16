@@ -1,0 +1,11 @@
+{
+  "name": "rabbitmq-example-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ferrerallan/rabbitmq-example-nodejs",
+  "author": "Allan <ferrerallan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
