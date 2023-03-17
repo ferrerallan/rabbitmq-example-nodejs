@@ -6,6 +6,6 @@
   "author": "Allan <ferrerallan@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.8.0"
+    "amqplib": "^0.10.3"
   }
 }
